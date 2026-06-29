@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0041/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十三
+  hash: sha256:37715509aef7f3494164bc585a87d8624d4b4517ea757749fe3b4d88b8516ad7
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0041_WYG_000-1a, image: WYG0662/WYG0662-0001a.png}
+body:
+  text: 厯代建元考政書類二儀制之屬提要臣等謹案厯代建元考十卷國朝鍾淵映撰淵映字廣漢秀水人自來紀元諸書多詳於正統惟國初吳肅公之改元考同及近時萬光泰之紀元叙韻與淵映此書則併偽朝覇國以至草竊僭稱皆一一具載其例以年號相同者列前次以年號分韻排編次列厯朝帝王及僭國始末並外藩亦間及之秩然有序雖載籍浩博蒐採難周如蜀王衍宋太祖年號與輔公祏同裘甫有維平之僭成都為西夏之稱凡斯之類不免間有缺漏未可云毫髪無遺然較之呉萬二家足稱賅洽矣乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:97e3ba956371c2f626ff5c7d0a9aefeda30f6f201d1e0821176c9cc324501d53
+metadata:
+  title: 歷代建元考
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:27.948024'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2m0041/KR2m0041_000.txt
+hash: sha256:0632c025f7947b78ce882ab1316072de127c85f4d9ae686d4e4fe99eee0f9d57
